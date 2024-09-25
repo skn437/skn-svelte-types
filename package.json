@@ -1,0 +1,35 @@
+{
+  "name": "@best-skn/svelte-types",
+  "description": "A Simple Type Definition Extension Library For Svelte Kit (Svelte 5)",
+  "version": "1.0.0",
+  "main": "",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skn437/skn-svelte-types.git"
+  },
+  "keywords": [
+    "svelte",
+    "svelte-kit",
+    "type",
+    "library",
+    "rune"
+  ],
+  "author": {
+    "name": "SKN Shukhan",
+    "email": "skn437physx@gmail.com",
+    "url": "https://skn.best"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.16.7",
+    "typescript": "^5.6.2"
+  },
+  "peerDependencies": {
+    "@sveltejs/kit": ">= 2.5.28 < 3",
+    "svelte": "5.0.0-next.259"
+  }
+}
