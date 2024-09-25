@@ -1,6 +1,6 @@
 # SKN Svelte Kit (Svelte 5) Type Extension Library
 
-<img width="150px" src="https://firebasestorage.googleapis.com/v0/b/skn-ultimate-project-la437.appspot.com/o/GitHub%20Library%2F14-TypeScript-SMT.svg?alt=media&token=e8fb7bd7-3ef2-465b-958b-f596a6095acb" alt="ui" />
+<img width="150px" src="https://firebasestorage.googleapis.com/v0/b/skn-ultimate-project-la437.appspot.com/o/GitHub%20Library%2F15-TypeScript-SST.svg?alt=media&token=517135b2-0b95-4472-8549-c5973cf092fc" alt="svelte" />
 
 > TypeScript Svelte
 
