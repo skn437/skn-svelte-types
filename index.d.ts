@@ -4,7 +4,7 @@ import type { Snippet } from "svelte";
  * SKN Svelte 5 Type Extension Library
  *
  * @author SKN Shukhan
- * @version 1.0.0
+ * @version 1.0.1
  * @since 2024-09-25
  * */
 declare module "@sveltejs/kit" {
