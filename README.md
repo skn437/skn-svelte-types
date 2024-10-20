@@ -40,12 +40,12 @@
 
 ## **_Requirements:_**
 
-### This library has peer dependency for Svelte of minimum 5.0.0. It may or may not work on 6.x
+### This library has peer dependency for Svelte of minimum 5.0.2. It may or may not work on 6.x
 
-### This library is intended to be used in Svelte Kit of minimum 2.5.28. It may or may not work on 3.x
+### This library is intended to be used in Svelte Kit of minimum 2.7.2. It may or may not work on 3.x
 
-- 💀 Minimum [svelte](https://www.npmjs.com/package/svelte) Version: `5.0.0`
-- 💀 Minimum [@sveltejs/kit](https://www.npmjs.com/package/@sveltejs/kit) Version: `2.5.28`
+- 💀 Minimum [svelte](https://www.npmjs.com/package/svelte) Version: `5.0.2`
+- 💀 Minimum [@sveltejs/kit](https://www.npmjs.com/package/@sveltejs/kit) Version: `2.7.2`
 
 &nbsp;
 
